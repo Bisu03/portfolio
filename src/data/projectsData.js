@@ -30,7 +30,7 @@ export const projectsData = [
     {
         id: 3,
         projectName: 'Social Media Web App',
-        projectDesc: '',
+        projectDesc: 'A social media platform like tweeter',
         tags: ['Next JS', 'CSS', 'MongoDB',"Node JS","AWS"],
         code: 'https://github.com/Bisu03/codeverse',
         demo: 'http://codeverse.tk/',
