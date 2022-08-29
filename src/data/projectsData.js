@@ -13,7 +13,7 @@ export const projectsData = [
         id: 1,
         projectName: 'Hospital Management System',
         projectDesc: 'This project aims to build an hospital management system that can store all the data of  patient',
-        tags: ['Next JS', 'CSS','MongoDB'],
+        tags: ['Next JS', 'CSS', 'MongoDB'],
         code: '',
         demo: 'https://oasishn.vercel.app/',
         image: one
@@ -31,7 +31,7 @@ export const projectsData = [
         id: 3,
         projectName: 'Social Media Web App',
         projectDesc: 'A social media platform like tweeter',
-        tags: ['Next JS', 'CSS', 'MongoDB',"Node JS","AWS"],
+        tags: ['Next JS', 'CSS', 'MongoDB', "Node JS", "AWS"],
         code: 'https://github.com/Bisu03/codeverse',
         demo: 'http://codeverse.tk/',
         image: three
@@ -49,9 +49,9 @@ export const projectsData = [
         id: 5,
         projectName: 'E-Commerce Web App',
         projectDesc: 'A Simple E-commerce application',
-        tags: ['Next JS', 'MongoDB',"Talwind Css"],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        tags: ['Next JS', 'MongoDB', "Talwind Css"],
+        code: 'https://github.com/Bisu03/basic-ecommerce.git',
+        demo: 'https://github.com/Bisu03/basic-ecommerce.git',
         image: five
     },
     // {
