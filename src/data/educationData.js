@@ -17,7 +17,7 @@ export const educationData = [
         id: 3,
         institution: 'Haldia Institute Of Technology',
         course: 'Master of Computer Application',
-        startYear: '2024',
-        endYear: 'Present'
+        startYear: '2022',
+        endYear: '2024'
     },
 ]
