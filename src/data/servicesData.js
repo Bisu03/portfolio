@@ -60,7 +60,7 @@ export const servicesData = [
     },
     {
         id: 11,
-        title: 'App Aevelopment',
+        title: 'App Development',
         icon: <FaTabletAlt />
     },
     // {
